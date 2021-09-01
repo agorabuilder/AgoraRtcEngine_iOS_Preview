@@ -1,9 +1,11 @@
 # Agora Swift Package Manager 
 
 <p align="center">
-  <img src="https://github.com/AgoraIO/AgoraRtcEngine_iOS/actions/workflows/swiftpm-resolve.yml/badge.svg"/>
+  <img src="https://github.com/agorabuilder/AgoraRtcEngine_iOS_Preview/actions/workflows/swiftpm-resolve.yml/badge.svg"/>
 </p>
-Install Agora Video SDK easily with Swift Package Manager.
+Install Agora's NG Video SDK easily with Swift Package Manager.
+
+The NG SDK starts with version `4.0.0`.
 
 ![](media/swiftpm-agora.png)
 
@@ -22,3 +24,9 @@ Go to File > Swift Packages > Add Package Dependency, and paste in the link to t
 If you have issues installing this Swift Package:
 
 In Xcode's File menu, select 'Swift Packages' and then 'Reset Package Caches'.
+
+## Other Packages
+
+If you need the SDK that includes Agoraffmpeg:
+
+[https://github.com/agorabuilder/AgoraFFmpegPlayer_iOS_Preview](https://github.com/agorabuilder/AgoraFFmpegPlayer_iOS_Preview)

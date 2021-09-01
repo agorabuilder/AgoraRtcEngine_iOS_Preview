@@ -18,23 +18,23 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Agoraffmpeg",
-            url: "https://download.agora.io/swiftpm/AgoraRtcEngine_iOS_Preview/4.0.0/Agoraffmpeg.xcframework.zip",
-            checksum: "d515752a04c0770c0705b941ab9e4ff48a3a91859f20c4f27e9896ab2402bd76"
+            url: "https://download.agora.io/swiftpm_2/AgoraRtcEngine_iOS_Preview/4.0.0/Agoraffmpeg.xcframework.zip",
+            checksum: "28ecb27397eb268602b0921f24af97c28a5883e44e9267321d7f6d8bdfb00e15"
         ),
         .binaryTarget(
             name: "AgoraRtcCryptoLoader",
-            url: "https://download.agora.io/swiftpm/AgoraRtcEngine_iOS_Preview/4.0.0/AgoraRtcCryptoLoader.xcframework.zip",
-            checksum: "7f53aa218fa63307c835ef9945e753853d324f5994fc23d5fcb49e69388784dc"
+            url: "https://download.agora.io/swiftpm_2/AgoraRtcEngine_iOS_Preview/4.0.0/AgoraRtcCryptoLoader.xcframework.zip",
+            checksum: "aecc7b94aedb24309130cb13f7d75c17e5b297fc62a4e52a8b50febb903f6116"
         ),
         .binaryTarget(
             name: "AgoraRtcKit",
-            url: "https://download.agora.io/swiftpm/AgoraRtcEngine_iOS_Preview/4.0.0/AgoraRtcKit.xcframework.zip",
-            checksum: "a8a108047abd8eb3cffdff6f4f8eb284a5e8df624dd7e674c6a5fa421673381a"
+            url: "https://download.agora.io/swiftpm_2/AgoraRtcEngine_iOS_Preview/4.0.0/AgoraRtcKit.xcframework.zip",
+            checksum: "b46dafb5c6756c7a089399ac9afe9ba51234a2a3fdafe0b80a1ea4bfe0f5ac33"
         ),
         .binaryTarget(
             name: "AgoraVideoProcess",
-            url: "https://download.agora.io/swiftpm/AgoraRtcEngine_iOS_Preview/4.0.0/AgoraVideoProcess.xcframework.zip",
-            checksum: "6e71a46ae95701bd505a7ad530caa20a8d65aefde3278d440c537eef52f495e7"
+            url: "https://download.agora.io/swiftpm_2/AgoraRtcEngine_iOS_Preview/4.0.0/AgoraVideoProcess.xcframework.zip",
+            checksum: "f0a8a9a17645738b19b5185964f3e43268c32405a8addb240cf2361ef18b4a50"
         ),
     ]
 )

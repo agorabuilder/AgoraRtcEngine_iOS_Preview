@@ -18,23 +18,23 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Agoraffmpeg",
-            url: "https://download.agora.io/swiftpm/AgoraRtcEngine_iOS_Preview/4.0.0/Agoraffmpeg.framework.zip",
-            checksum: "3af23a9f657bbcc409b6aa7f19b77da0865790687d4e0f8362ebe7755e7b6ce6"
+            url: "https://download.agora.io/swiftpm/AgoraRtcEngine_iOS_Preview/4.0.0/Agoraffmpeg.xcframework.zip",
+            checksum: "deeaa654306e42916e7b83c9dbcf078344caf276562a5eb1f8fcf2dc9173b826"
         ),
         .binaryTarget(
             name: "AgoraRtcCryptoLoader",
-            url: "https://download.agora.io/swiftpm/AgoraRtcEngine_iOS_Preview/4.0.0/AgoraRtcCryptoLoader.framework.zip",
-            checksum: "f8b71c361de3a8f7363de1947611611fd1168422e4782b64c6bad5cdc9572182"
+            url: "https://download.agora.io/swiftpm/AgoraRtcEngine_iOS_Preview/4.0.0/AgoraRtcCryptoLoader.xcframework.zip",
+            checksum: "64475a3238427042877282397142ea4ab7359ee8b88be0a53bce2c8ab36edb91"
         ),
         .binaryTarget(
             name: "AgoraRtcKit",
-            url: "https://download.agora.io/swiftpm/AgoraRtcEngine_iOS_Preview/4.0.0/AgoraRtcKit.framework.zip",
-            checksum: "7efc87ed5383df260758d75e4b9d09ad70db31e0f6a68bb93bde88ba32c07ba5"
+            url: "https://download.agora.io/swiftpm/AgoraRtcEngine_iOS_Preview/4.0.0/AgoraRtcKit.xcframework.zip",
+            checksum: "a7fd465e505630ce807caa6048be9b22b7f3ff7987857363d8a2b8292cb19bb8"
         ),
         .binaryTarget(
             name: "AgoraVideoProcess",
-            url: "https://download.agora.io/swiftpm/AgoraRtcEngine_iOS_Preview/4.0.0/AgoraVideoProcess.framework.zip",
-            checksum: "685f8a77caa091e495a3d0982eaa42f3adc9f96e4567181c74dad51b0ab76060"
+            url: "https://download.agora.io/swiftpm/AgoraRtcEngine_iOS_Preview/4.0.0/AgoraVideoProcess.xcframework.zip",
+            checksum: "dc3c7bd1c52033554d6cea9d9afb69a0e33b0c460bbdf3398f3a314c4836df4d"
         ),
     ]
 )

@@ -18,23 +18,23 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Agoraffmpeg",
-            url: "https://download.agora.io/swiftpm_2/AgoraRtcEngine_iOS_Preview/4.0.0/Agoraffmpeg.xcframework.zip",
-            checksum: "28ecb27397eb268602b0921f24af97c28a5883e44e9267321d7f6d8bdfb00e15"
+            url: "https://download.agora.io/swiftpm/AgoraRtcEngine_iOS_Preview/4.0.0-preview.2/Agoraffmpeg.xcframework.zip",
+            checksum: "7414da6cc66df4d1177952a22d4a7de01bd9d4b6774f7d8cb6d047d391d7fb09"
         ),
         .binaryTarget(
             name: "AgoraRtcCryptoLoader",
-            url: "https://download.agora.io/swiftpm_2/AgoraRtcEngine_iOS_Preview/4.0.0/AgoraRtcCryptoLoader.xcframework.zip",
-            checksum: "aecc7b94aedb24309130cb13f7d75c17e5b297fc62a4e52a8b50febb903f6116"
+            url: "https://download.agora.io/swiftpm/AgoraRtcEngine_iOS_Preview/4.0.0-preview.2/AgoraRtcCryptoLoader.xcframework.zip",
+            checksum: "3681be1f4f709ffc6d60290462eb650f2ade35fb2085e5a115e13a768006af57"
         ),
         .binaryTarget(
             name: "AgoraRtcKit",
-            url: "https://download.agora.io/swiftpm_2/AgoraRtcEngine_iOS_Preview/4.0.0/AgoraRtcKit.xcframework.zip",
-            checksum: "b46dafb5c6756c7a089399ac9afe9ba51234a2a3fdafe0b80a1ea4bfe0f5ac33"
+            url: "https://download.agora.io/swiftpm/AgoraRtcEngine_iOS_Preview/4.0.0-preview.2/AgoraRtcKit.xcframework.zip",
+            checksum: "fbddaf4969754f9642f75ae9710ee378830b3da23fd946e63c5266e2de95b55a"
         ),
         .binaryTarget(
             name: "AgoraVideoProcess",
-            url: "https://download.agora.io/swiftpm_2/AgoraRtcEngine_iOS_Preview/4.0.0/AgoraVideoProcess.xcframework.zip",
-            checksum: "f0a8a9a17645738b19b5185964f3e43268c32405a8addb240cf2361ef18b4a50"
+            url: "https://download.agora.io/swiftpm/AgoraRtcEngine_iOS_Preview/4.0.0-preview.2/AgoraVideoProcess.xcframework.zip",
+            checksum: "262f50b8d8e6a6f3c61954e0e21bacd0ad36842fbb56d9752b3ffa87677d9824"
         ),
     ]
 )
